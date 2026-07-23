@@ -11,11 +11,11 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "^3.0.1",
-    "svelte": "^4.2.8",
-    "vite": "^5.0.8"
+    "@sveltejs/vite-plugin-svelte": "^3.1.2",
+    "svelte": "^4.2.20",
+    "vite": "^5.4.21"
   },
   "dependencies": {
-    "tone": "^14.7.77"
+    "tone": "^14.9.17"
   }
 }
